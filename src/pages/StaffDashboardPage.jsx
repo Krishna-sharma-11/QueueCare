@@ -55,7 +55,7 @@ export const StaffDashboardPage = () => {
         </div>
 
         <div className="space-y-4">
-          <h3 className="font-bold text-slate-800 text-base">Agentic AI Activity</h3>
+          {/* <h3 className="font-bold text-slate-800 text-base">Agentic AI Activity</h3> */}
           <AgentFeed />
         </div>
       </div>
